@@ -1,6 +1,6 @@
 # ISC1YD - Fundamentos de Programación - Prácticas
 
-Nombre: Luis Diego Gutiérrez Pérez 
+Nombre: Luis Diego Gutiérrez Pérez  
 Número de control: 24041179
 
 Este repositorio contiene las prácticas realizadas en el curso **ISC1YD-FundamentosProgramacion-Practicas**. A continuación, se presenta una lista de todas las prácticas con una breve descripción.
